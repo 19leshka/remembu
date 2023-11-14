@@ -1,0 +1,9 @@
+[submodule "elk"]
+	path = elk
+	url = https://github.com/19leshka/elk
+[submodule "remembu_auth"]
+	path = remembu_auth
+	url = https://github.com/19leshka/remembu_auth
+[submodule "remembu_front"]
+	path = remembu_front
+	url = https://github.com/19leshka/remembu_front
